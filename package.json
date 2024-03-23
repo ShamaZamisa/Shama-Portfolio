@@ -1,0 +1,22 @@
+{
+    "name": "shama-zamisa-portfolio",
+    "version": "1.0.0",
+    "description": "the portfolio website of shama zamisa",
+    "main": "script.js",
+    "scripts": {
+        "test": "no test specified"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShamaZamisa/Shama-Portfolio.git"
+    },
+    "keywords": [
+        "[]"
+    ],
+    "author": "Shama Zamisa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ShamaZamisa/issues"
+    },
+    "homepage": "https://github.com/ShamaZamisa#readme"
+}
